@@ -7,7 +7,7 @@ This repository contains the schematics for a small PCB shorting bar for the [HP
 ## Contents
 - [Introduction](#introduction)
 - [Design Files](#design-files)
-- [Installation](#installation)
+- [Related Repositories](#related-repositories)
 - [Versioning](#versioning)
 - [License](#license)
 
@@ -18,6 +18,11 @@ I used a ```1 mm``` PCB which was ```ENIG``` plated to make sure no corrosion bu
 
 ## Design Files
 The root folder contains the KiCAD files. The bill of materials can be found on the [releases](../../releases) page along with Gerber files for production.
+
+## Related Repositories
+See the following repositories which contain addional optional parts
+
+- [HP 66332A and HP 6632B-6634B Frontpanel Binding Post PCB](https://github.com/PatrickBaus/HP6632B_binding_posts)
 
 ## Versioning
 I use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags](../../tags) available for this repository.
