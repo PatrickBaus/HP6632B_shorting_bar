@@ -1,5 +1,5 @@
 [![Build manufacturing files](https://github.com/PatrickBaus/Owner-avatar-HP6632B_shorting_bar/actions/workflows/ci.yml/badge.svg)](https://github.com/PatrickBaus/Owner-avatar-HP6632B_shorting_bar/actions/workflows/ci.yml)
-# HP 66332A and HP 6632B-6634B Shoring Bar
+# HP 66332A and HP 6632B-6634B Shorting Bar
 This repository contains the schematics for a small PCB shorting bar for the [HP 6632B](https://www.keysight.com/us/en/product/6632B/100-watt-system-power-supply-20v-5a.html) (and siblings) power supply. This PCB is to be used in conjunction with [HP 66332A and HP 6632B-6634B Frontpanel Binding Post PCB](https://github.com/PatrickBaus/HP6632B_binding_posts) project to short the sense output to the regular outputs if a four wire connection is not desired.
 
 ![Shorting bar PCB](images/board.png)
