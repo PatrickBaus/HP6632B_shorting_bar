@@ -20,7 +20,7 @@ I used a ```1 mm``` PCB which was ```ENIG``` plated to make sure no corrosion bu
 The root folder contains the KiCAD files. The bill of materials can be found on the [releases](../../releases) page along with Gerber files for production.
 
 ## Related Repositories
-See the following repositories which contain addional optional parts
+See the following repositories which contain addional optional parts.
 
 - [HP 66332A and HP 6632B-6634B Frontpanel Binding Post PCB](https://github.com/PatrickBaus/HP6632B_binding_posts)
 
